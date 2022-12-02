@@ -3,6 +3,7 @@
 	<race>
 		<name>High Elf</name>
 		<size>M</size>
+		<type>humanoid</type>
 		<speed>30</speed>
     <ability>Dex 2, Con -1</ability>
 		<trait>
