@@ -11,3 +11,25 @@
 			<text>You can speak, read, and write Common, Elven, and one other language per every point of your Intelligence bonus.</text>
 		</trait>
 	</race>
+	<race>
+		<name>Wood Elf</name>
+		<size>M</size>
+		<type>humanoid</type>
+		<speed>30</speed>
+    <ability>Dex 2, Con -1</ability>
+		<trait>
+			<name>Language</name>
+			<text>You can speak, read, and write Common, Elven, and one other language per every point of your Intelligence bonus.</text>
+		</trait>
+	</race>
+		<race>
+		<name>Drow</name>
+		<size>M</size>
+		<type>humanoid</type>
+		<speed>30</speed>
+    <ability>Dex 2, Con -1</ability>
+		<trait>
+			<name>Language</name>
+			<text>You can speak, read, and write Common, Elven, and one other language per every point of your Intelligence bonus.</text>
+		</trait>
+	</race>
