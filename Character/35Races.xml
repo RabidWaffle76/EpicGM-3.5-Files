@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="3.5">
+	<race>
+		<name>High Elf</name>
+		<size>M</size>
+		<speed>30</speed>
+    <ability>Dex 2, Con -1</ability>
+		<trait>
+			<name>Language</name>
+			<text>You can speak, read, and write Common, Elven, and one other language per every point of your Intelligence bonus.</text>
+		</trait>
+	</race>
